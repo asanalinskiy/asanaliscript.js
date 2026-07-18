@@ -1,0 +1,18 @@
+{
+  "name": "asanaliscript",
+  "version": "1.0.0",
+  "description": "The  my programming language "Asanali Script" but in JS",
+  "main": "ascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "script",
+    "asanscript",
+    "asanaliscript",
+    "asanali script",
+    "ascript"
+],
+  "author": "asanali",
+  "type": "commonjs"
+}
